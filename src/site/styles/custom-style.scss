@@ -1,5 +1,4 @@
-body {
-    :root {
+:root {
   /* ── Core palette ─────────────────────────────── */
   --background-primary:         #0c0b09;
   --background-secondary:       #131109;
@@ -63,4 +62,3 @@ code {
 }
 
 /* Graph node color gets picked up from --interactive-accent automatically */
-}
