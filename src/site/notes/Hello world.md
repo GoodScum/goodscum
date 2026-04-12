@@ -9,3 +9,4 @@ This is a garden grown from a boneyard.
 - [[arQ(hive)/Online Pubs/thomas-crush-burial-moksha\|thomas-crush-burial-moksha]]
 - [[arQ(hive)/Boys/Phillip Weimer/Idaho\|Idaho]] 
 - [[The Ones Who Walk Away from Omelas - Ursula K. LeGuin\|The Ones Who Walk Away from Omelas - Ursula K. LeGuin]] - This is a free pdf~
+- [[arQ(hive)/All You Need Is Kill (2025) ⭐ 6.8\|All You Need Is Kill (2025) ⭐ 6.8]] - best of the year so far
