@@ -23,10 +23,3 @@ between the two.
 ### the men specifically
 
 - [[arQ(hive)/Boys/Phillip Weimer/Idaho\|Idaho]] — first man, before the pattern had a name
-- [[arQ(hive)/Boys/Jimmy Hinkle/jdog\|jdog]] — a kiss, a tortilla chip, the three of swords
-- [[arQ(hive)/Boys/Russell Webb/Moby redux 2026\|Moby redux 2026]] — the long devotion
-
-### the apparatus
-
-- [[BoyDevotion\|BoyDevotion]] — the name for what keeps happening
-- [[TaxonomyOfMen\|TaxonomyOfMen]] — because taxonomy is a form of love too
