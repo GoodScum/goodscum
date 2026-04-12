@@ -2,4 +2,4 @@
 {"dg-publish":true,"permalink":"/saturn-in-aries/","dg-note-properties":{}}
 ---
 
-#Knife-Shadow 
+[[saturn in aries#Knife-Shadow\|#Knife-Shadow]]
