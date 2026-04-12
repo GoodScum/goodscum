@@ -17,4 +17,3 @@ I will string threads between threads until the web is strong enough to catch th
 - [[arQ(hive)/Online Pubs/i-took-a-bunch-of-cocaine-to-a-work-holiday-party\|i-took-a-bunch-of-cocaine-to-a-work-holiday-party]] 
 - [[arQ(hive)/Boys/Phillip Weimer/Idaho\|Idaho]] 
 - [[The Ones Who Walk Away from Omelas - Ursula K. LeGuin\|The Ones Who Walk Away from Omelas - Ursula K. LeGuin]] - This is a free pdf~
-- [[old txt\|old txt]]
