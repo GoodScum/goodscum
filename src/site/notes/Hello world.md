@@ -6,6 +6,7 @@ This is a garden grown from a boneyard.
 ### start here
 
 - [[arQ(hive)/Online Pubs/recolor/old words from earth mountain\|old words from earth mountain]] 
+- [[Clippings/How Angel Magic Gave Us the Internet\|How Angel Magic Gave Us the Internet]]
 - [[arQ(hive)/Online Pubs/bee-hive-heart-forest-soul\|bee-hive-heart-forest-soul]] 
 - [[arQ(hive)/Online Pubs/thomas-crush-burial-moksha\|thomas-crush-burial-moksha]]
 - [[arQ(hive)/Boys/Phillip Weimer/Idaho\|Idaho]] 
