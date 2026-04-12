@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/clippings/how-angel-magic-gave-us-the-internet/","title":"How Angel Magic Gave Us the Internet - The Steganographia of Trithemius","tags":["Angel","Magic","Internet"],"dg-note-properties":{"title":"How Angel Magic Gave Us the Internet - The Steganographia of Trithemius","source":"https://www.youtube.com/watch?v=Vq96NDOB0xs","published":"2026-03-27","created":"2026-04-09","summary":null,"tags":["Angel","Magic","Internet"]}}
 ---
 
-![[../_resources/How Angel Magic Gave Us the Internet - The Steganographia of Trithemius/064839e0259dd1c75fb022ea136fccc2_MD5.unknown\|../_resources/How Angel Magic Gave Us the Internet - The Steganographia of Trithemius/064839e0259dd1c75fb022ea136fccc2_MD5.unknown]]
+<div class="youtube-embed"><iframe src="https://www.youtube.com/embed/Vq96NDOB0xs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Did Angel Magic give us the Internet? In around 1499 Johann Trithemius began combining alchemical theory, astrology, the combatory arts and angel magic into a vast occult system by which to rapidly transmit information, acquire languages, induce prophecy and illuminate the soul. He called this occult science the Ars Steganographia and he was condemned for it. Despite rumors that he was a vile necromancer, Trithemius would continue his studies: founding arcane modern cryptology, tutoring Agrippa as he developed the Occult Philosophy, inspiring the development of the Lesser Key of Solomon, uncovering the astral cycles of history and much more. Let's explore the Ars Steganographia!  
   
