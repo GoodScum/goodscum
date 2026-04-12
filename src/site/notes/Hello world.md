@@ -10,3 +10,4 @@ This is a garden grown from a boneyard.
 - [[arQ(hive)/Boys/Phillip Weimer/Idaho\|Idaho]] 
 - [[The Ones Who Walk Away from Omelas - Ursula K. LeGuin\|The Ones Who Walk Away from Omelas - Ursula K. LeGuin]] - This is a free pdf~
 - [[Clippings/All You Need Is Kill (2025)\|All You Need Is Kill (2025)]] 
+- [[saturn in aries\|saturn in aries]]
