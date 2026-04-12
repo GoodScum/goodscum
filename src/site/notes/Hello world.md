@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hello-world/","title":"Hello world","tags":["home","gardenEntry"],"dg-note-properties":{"title":"Hello world","tags":["home","gardenEntry"]}}
+{"dg-publish":true,"permalink":"/hello-world/","title":"Hello world","tags":["gardenEntry"],"dg-note-properties":{"title":"Hello world","tags":null}}
 ---
 
 
