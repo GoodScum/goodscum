@@ -19,7 +19,7 @@ In finding it’s heart, I named that oasis “The Kingdom.”
 
 :::::
 
-[img]http://i.imgur.com/kmIDzVi.jpg[/img]
+![](http://i.imgur.com/kmIDzVi.jpg)
 
 On December 23rd - 2011, my personal holiday, I ate some sacred mushrooms and trekked through the heat to, at that time, my favorite place in the world. On the way to the hive, I collected empty snail shells and left trails of tangerine peels in my wake. Thorns bit me as I scrambled through the brush, and I laughed and laughed.
 
