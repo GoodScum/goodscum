@@ -2,14 +2,7 @@
 {"dg-publish":true,"permalink":"/hello-world/","title":"Hello world","tags":["gardenEntry"],"dg-note-properties":{"title":"Hello world","tags":null}}
 ---
 
-
 This is a garden grown from a boneyard.
-
-I will string threads between threads until the web is strong enough to catch the fluttering passersby and hold them still for awhile
-
-
----
-
 ### start here
 
 - [[arQ(hive)/Online Pubs/bee-hive-heart-forest-soul\|bee-hive-heart-forest-soul]] 
