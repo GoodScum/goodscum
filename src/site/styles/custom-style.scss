@@ -1,5 +1,21 @@
-body {
-  // ── Palette tokens ───────────────────────────────────────
+body.theme-dark {
+ 
+  // ── Obsidian color-base overrides ────────────────────────
+  // These feed the entire Obsidian variable chain.
+  // --background-primary resolves to var(--color-base-00), etc.
+  --color-base-00:  #0c0b09;
+  --color-base-10:  #131109;
+  --color-base-20:  #17150f;
+  --color-base-25:  #17150f;
+  --color-base-30:  #221e17;
+  --color-base-35:  #2a2319;
+  --color-base-40:  #3a3228;
+  --color-base-50:  #3a3228;
+  --color-base-60:  #6b5f51;
+  --color-base-70:  #6b5f51;
+  --color-base-100: #c4b29a;
+ 
+  // ── Explicit palette tokens ──────────────────────────────
   --background-primary:         #0c0b09;
   --background-secondary:       #131109;
   --background-primary-alt:     #17150f;
@@ -14,293 +30,369 @@ body {
   --interactive-accent-hover:   #c9872f;
   --link-color:                 #c9a96e;
   --link-color-hover:           #e8ca8a;
-
+ 
+  // ── Heading variables ────────────────────────────────────
+  // These flow through the .markdown-rendered hN selectors
+  // in obsidian-base, so font/color/weight/size propagate
+  // without needing direct element overrides.
+  --h1-color:           #b8722a;
+  --h1-weight:          400;
+  --h1-font:            'Georgia', serif;
+  --h1-letter-spacing:  0.10em;
+  --h2-color:           #b8722a;
+  --h2-weight:          400;
+  --h2-font:            'Courier New', monospace;
+  --h2-size:            0.72rem;
+  --h2-letter-spacing:  0.28em;
+  --h2-line-height:     1.4;
+  --h3-color:           #c9a96e;
+  --h3-weight:          400;
+  --h3-letter-spacing:  0.04em;
+  --h4-color:           #6b5f51;
+  --h4-weight:          400;
+  --h4-font:            'Courier New', monospace;
+  --h4-size:            0.78rem;
+  --h4-letter-spacing:  0.14em;
+ 
+  // ── Typography ───────────────────────────────────────────
+  --font-text:      'Georgia', 'Times New Roman', serif;
+  --font-interface: 'Georgia', 'Times New Roman', serif;
+  --font-monospace: 'Courier New', monospace;
+  --line-height-normal: 1.75;
+ 
+  // ── Links ────────────────────────────────────────────────
+  --link-decoration:               none;
+  --link-decoration-hover:         none;
+  --link-external-decoration:      none;
+  --link-external-decoration-hover: none;
+ 
   // ── Layout ───────────────────────────────────────────────
-  --dg-content-max-width:    820px;
-  --dg-content-font-size:    16px;
-  --dg-content-line-height:  1.75;
-  --dg-filetree-width:       260px;
-  --dg-sidebar-max-width:    280px;
-
-  // ── Base ─────────────────────────────────────────────────
-  background: var(--background-primary);
-  color: var(--text-normal);
+  --dg-content-max-width:   820px;
+  --dg-content-font-size:   16px;
+  --dg-content-line-height: 1.75;
+  --dg-filetree-width:      260px;
+  --dg-sidebar-max-width:   220px;
+  --dg-sidebar-gap:         40px;
+ 
+  // ── Border radii → 0 everywhere ──────────────────────────
+  --dg-graph-border-radius:  0;
+  --dg-search-box-radius:    0;
+  --dg-search-input-radius:  0;
+  --dg-search-result-radius: 0;
+  --dg-search-btn-radius:    0;
+  --dg-mermaid-radius:       0;
+  --dg-graph-ctrl-radius:    0;
+  --radius-s: 0;
+  --radius-m: 0;
+  --radius-l: 0;
+ 
+  // ── Graph ────────────────────────────────────────────────
+  --dg-graph-bg:               #131109;
+  --dg-graph-border-color:     #221e17;
+  --dg-graph-node-color:       #c9a96e;
+  --dg-graph-node-color-muted: #3a3228;
+  --dg-graph-label-color:      #c4b29a;
+ 
+  // ── Search ───────────────────────────────────────────────
+  --dg-overlay-bg:            rgba(12, 11, 9, 0.85);
+  --dg-search-highlight-bg:   rgba(201, 169, 110, 0.25);
+  --dg-search-divider-color:  #221e17;
+ 
+  // ── Notelink ─────────────────────────────────────────────
+  --dg-notelink-hover-bg: #1a1810;
+ 
+  // ── Blockquote ───────────────────────────────────────────
+  --blockquote-border-color:      #7a4b1a;
+  --blockquote-border-thickness:  3px;
+  --blockquote-color:             #6b5f51;
+  --blockquote-font-style:        italic;
+  --blockquote-background-color:  #17150f;
+ 
+  // ── Tags ─────────────────────────────────────────────────
+  --tag-background:       #1a1710;
+  --tag-background-hover: #1a1710;
+  --tag-color:            #6b5f51;
+  --tag-color-hover:      #c9a96e;
+  --tag-border-color:     #221e17;
+  --tag-border-color-hover: #221e17;
+  --tag-border-width:     1px;
+  --tag-radius:           0;
+  --tag-size:             0.67rem;
+  --tag-padding-x:        0.52rem;
+  --tag-padding-y:        0.18rem;
+ 
+  // ── Code ─────────────────────────────────────────────────
+  --code-background:   #17150f;
+  --code-normal:       #c9a96e;
+  --code-radius:       0;
+  --code-border-width: 1px;
+  --code-border-color: #221e17;
+  --code-size:         0.82em;
+ 
+  // ── HR ───────────────────────────────────────────────────
+  --hr-color: #221e17;
+  --hr-thickness: 1px;
+ 
+  // ── Callout ──────────────────────────────────────────────
+  --callout-blend-mode: normal;
+ 
+  // ── Direct properties on body ────────────────────────────
   font-family: 'Georgia', 'Times New Roman', serif;
   line-height: 1.75;
-
-  // ── Headings ─────────────────────────────────────────────
-  h1 {
-    color: var(--interactive-accent);
-    font-weight: 400;
-    letter-spacing: 0.10em;
-    font-family: 'Georgia', serif;
-  }
-
+  background: var(--background-primary);
+  color: var(--text-normal);
+ 
+  // ════════════════════════════════════════════════════════
+  // Heading extras (properties with no CSS variable)
+  // Compiles to body.theme-dark h2, etc. → specificity 0,1,2
+  // ════════════════════════════════════════════════════════
+ 
   h2 {
-    color: var(--interactive-accent);
-    font-weight: 400;
-    font-size: 0.72rem;
-    letter-spacing: 0.28em;
     text-transform: uppercase;
-    font-family: 'Courier New', monospace;
     border-left: 2px solid #7a4b1a;
     padding-left: 0.9rem;
     margin-top: 2.8rem;
     margin-bottom: 1.2rem;
   }
-
-  h3 {
-    color: var(--text-accent);
-    font-weight: 400;
-    letter-spacing: 0.04em;
-  }
-
+ 
   h4 {
-    color: var(--text-muted);
-    font-weight: 400;
-    font-family: 'Courier New', monospace;
-    font-size: 0.78rem;
-    letter-spacing: 0.14em;
     text-transform: uppercase;
   }
-
-  // ── Links ────────────────────────────────────────────────
+ 
+  // ════════════════════════════════════════════════════════
+  // Content-scoped element overrides
+  // ════════════════════════════════════════════════════════
+ 
   a {
-    color: var(--link-color);
-    text-decoration: none;
     transition: color 0.12s;
-
-    &:hover {
-      color: var(--link-color-hover);
-      text-decoration: none;
-    }
   }
-
-  // ── Paragraphs & lists ───────────────────────────────────
-  p { color: var(--text-normal); }
-
-  ul, ol {
-    li {
-      color: var(--text-normal);
-      padding: 0.35rem 0;
-      border-bottom: 1px solid var(--background-modifier-border);
-
-      &:last-child { border-bottom: none; }
-
-      a { font-size: 0.95rem; }
-    }
+ 
+  // Content list separators (scoped to avoid sidebar bleed)
+  .cm-s-obsidian li {
+    padding: 0.35rem 0;
+    border-bottom: 1px solid var(--background-modifier-border);
+ 
+    &:last-child { border-bottom: none; }
+ 
+    a { font-size: 0.95rem; }
   }
-
-  // ── Code ─────────────────────────────────────────────────
+ 
+  // Code font-family (variable covers color/bg/radius/size)
   code {
-    background: #17150f !important;
-    color: var(--text-accent) !important;
-    border: 1px solid var(--background-modifier-border);
     font-family: 'Courier New', monospace;
-    font-size: 0.82em;
     padding: 0.12em 0.42em;
-    border-radius: 0;
   }
-
-  pre {
-    background: #131109 !important;
-    border: 1px solid var(--background-modifier-border);
-    border-radius: 0;
-
-    code {
-      border: none;
-      background: transparent !important;
-    }
+ 
+  pre code {
+    border: none;
+    background: transparent;
   }
-
-  // ── Blockquote ───────────────────────────────────────────
+ 
+  // Blockquote: suppress the ::before from style.scss
   blockquote {
-    background: #17150f;
-    border-left: 3px solid #7a4b1a;
+    margin: 1.5em 0;
+    padding: 1rem 1.4rem;
     border-top: none;
     border-right: none;
     border-bottom: none;
-    margin: 1.5em 0;
-    padding: 1rem 1.4rem;
-    color: var(--text-muted);
-    font-style: italic;
-
+ 
     &:before { display: none; }
-
+ 
     p {
       color: var(--text-muted);
       display: block;
     }
   }
-
-  // ── HR ───────────────────────────────────────────────────
+ 
   hr {
-    border-color: var(--background-modifier-border);
-    border-top-width: 1px;
     margin: 2.5rem 0;
   }
-
-  // ── Tags ─────────────────────────────────────────────────
+ 
+  // Tag font-family (no variable for this)
   .tag {
-    background: #1a1710;
-    color: var(--text-muted);
-    border: 1px solid var(--background-modifier-border);
     font-family: 'Courier New', monospace;
-    font-size: 0.67rem;
     letter-spacing: 0.1em;
-    padding: 0.18rem 0.52rem;
+  }
+ 
+  // ════════════════════════════════════════════════════════
+  // Search modal
+  // ════════════════════════════════════════════════════════
+ 
+  .search-box {
+    background-color: #131109;
+    border: 1px solid var(--background-modifier-border);
+ 
+    input {
+      background-color: #0c0b09;
+      border: 1px solid var(--background-modifier-border);
+      color: var(--text-normal);
+      font-family: 'Courier New', monospace;
+    }
+  }
+ 
+  .searchresult {
+    background-color: #17150f;
+  }
+}
+ 
+// ══════════════════════════════════════════════════════════
+// Component-level selectors
+// (Class specificity already sufficient — kept outside
+//  the body.theme-dark block for clarity)
+// ══════════════════════════════════════════════════════════
+ 
+// ── Left sidebar (filetree) ──────────────────────────────
+ 
+.filetree-sidebar {
+  background: #131109;
+  border-right: 1px solid var(--background-modifier-border);
+  font-family: 'Courier New', monospace;
+ 
+  h1 {
+    color: var(--interactive-accent);
+    font-size: 1.1rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    font-family: 'Courier New', monospace;
+    font-weight: 400;
+    border: none;
+    padding-left: 1rem;
+  }
+ 
+  .search-button {
+    background: #0c0b09;
+    border: 1px solid var(--background-modifier-border);
+    color: var(--text-muted);
+    font-family: 'Courier New', monospace;
+    font-size: 0.78rem;
+    letter-spacing: 0.06em;
     border-radius: 0;
   }
-
-  // ── Left sidebar (filetree) ──────────────────────────────
-  .filetree-sidebar {
+}
+ 
+.notelink {
+  color: var(--text-muted);
+  font-size: 0.82rem;
+  font-family: 'Courier New', monospace;
+  letter-spacing: 0.02em;
+  transition: color 0.12s, background 0.12s;
+ 
+  a { color: var(--text-muted); }
+ 
+  &:hover, &:hover a {
+    color: var(--link-color-hover);
+    background: #1a1810;
+  }
+ 
+  &.active-note {
+    color: var(--text-accent);
+    background: #17150f;
+    border-left: 2px solid var(--interactive-accent);
+ 
+    a { color: var(--text-accent); }
+  }
+}
+ 
+.folder {
+  color: var(--text-muted);
+  font-family: 'Courier New', monospace;
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+ 
+// ── Top navbar ───────────────────────────────────────────
+ 
+.navbar {
+  background: #0c0b09;
+  border-bottom: 1px solid var(--background-modifier-border);
+  font-family: 'Courier New', monospace;
+ 
+  h1 {
+    color: var(--interactive-accent);
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    border: none;
+    padding-left: 0;
+  }
+ 
+  .search-button {
     background: #131109;
-    border-right: 1px solid var(--background-modifier-border);
-    font-family: 'Courier New', monospace;
-
-    h1 {
-      color: var(--interactive-accent);
-      font-size: 1.1rem;
-      letter-spacing: 0.14em;
-      text-transform: uppercase;
-      font-family: 'Courier New', monospace;
-      font-weight: 400;
-      border: none;
-      padding-left: 1rem;
-    }
-
-    .search-button {
-      background: #0c0b09;
-      border: 1px solid var(--background-modifier-border);
-      color: var(--text-muted);
-      font-family: 'Courier New', monospace;
-      font-size: 0.78rem;
-      letter-spacing: 0.06em;
-      border-radius: 0;
-    }
-  }
-
-  .notelink {
+    border: 1px solid var(--background-modifier-border);
     color: var(--text-muted);
-    font-size: 0.82rem;
-    font-family: 'Courier New', monospace;
-    letter-spacing: 0.02em;
-    transition: color 0.12s, background 0.12s;
-
-    a { color: var(--text-muted); }
-
-    &:hover, &:hover a {
-      color: var(--link-color-hover);
-      background: #1a1810;
-    }
-
-    &.active-note {
-      color: var(--text-accent);
-      background: #17150f;
-      border-left: 2px solid var(--interactive-accent);
-
-      a { color: var(--text-accent); }
-    }
+    border-radius: 0;
   }
-
-  .folder {
+}
+ 
+// ── Right sidebar ────────────────────────────────────────
+ 
+.sidebar { background: transparent; }
+ 
+.toc {
+  background: #131109;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 0;
+ 
+  .toc-title-container {
+    background: #131109;
+    border-bottom: 1px solid var(--background-modifier-border);
+    border-left: 2px solid #7a4b1a;
+  }
+ 
+  .toc-title {
     color: var(--text-muted);
     font-family: 'Courier New', monospace;
-    font-size: 0.75rem;
-    letter-spacing: 0.08em;
+    font-size: 0.68rem;
+    letter-spacing: 0.18em;
     text-transform: uppercase;
   }
-
-  // ── Top navbar ───────────────────────────────────────────
-  .navbar {
-    background: #0c0b09;
-    border-bottom: 1px solid var(--background-modifier-border);
+ 
+  a {
+    color: var(--text-muted);
+    font-size: 0.78rem;
     font-family: 'Courier New', monospace;
-
-    h1 {
-      color: var(--interactive-accent);
-      letter-spacing: 0.16em;
-      text-transform: uppercase;
-      border: none;
-      padding-left: 0;
-    }
-
-    .search-button {
-      background: #131109;
-      border: 1px solid var(--background-modifier-border);
-      color: var(--text-muted);
-      border-radius: 0;
-    }
+ 
+    &:hover { color: var(--link-color-hover); }
   }
-
-  // ── Right sidebar (TOC + backlinks) ──────────────────────
-  .sidebar { background: transparent; }
-
-  .toc {
+}
+ 
+.backlinks {
+  background: #131109;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 0;
+ 
+  .backlink-title {
     background: #131109;
-    border: 1px solid var(--background-modifier-border);
+    color: var(--text-muted);
+    font-family: 'Courier New', monospace;
+    font-size: 0.68rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    border-left: 2px solid #7a4b1a;
+  }
+ 
+  .backlink-card {
     border-radius: 0;
-
-    .toc-title-container {
-      background: #131109;
-      border-bottom: 1px solid var(--background-modifier-border);
-      border-left: 2px solid #7a4b1a;
-    }
-
-    .toc-title {
-      color: var(--text-muted);
+    background: transparent;
+    border-bottom: 1px solid var(--background-modifier-border);
+ 
+    .backlink {
+      color: var(--text-accent);
+      font-size: 0.82rem;
       font-family: 'Courier New', monospace;
-      font-size: 0.68rem;
-      letter-spacing: 0.18em;
-      text-transform: uppercase;
-    }
-
-    a {
-      color: var(--text-muted);
-      font-size: 0.78rem;
-      font-family: 'Courier New', monospace;
-
+ 
       &:hover { color: var(--link-color-hover); }
     }
   }
-
-  .backlinks {
-    background: #131109;
-    border: 1px solid var(--background-modifier-border);
-    border-radius: 0;
-
-    .backlink-title {
-      background: #131109;
-      color: var(--text-muted);
-      font-family: 'Courier New', monospace;
-      font-size: 0.68rem;
-      letter-spacing: 0.18em;
-      text-transform: uppercase;
-      border-left: 2px solid #7a4b1a;
-    }
-
-    .backlink-card {
-      border-radius: 0;
-      background: transparent;
-      border-bottom: 1px solid var(--background-modifier-border);
-
-      .backlink {
-        color: var(--text-accent);
-        font-size: 0.82rem;
-        font-family: 'Courier New', monospace;
-
-        &:hover { color: var(--link-color-hover); }
-      }
-    }
-  }
-
-  // ── Transclusion ─────────────────────────────────────────
-  .referred {
-    background: #17150f;
-    border-left: 3px solid #7a4b1a;
-    border-right: none;
-    border-top: none;
-    border-bottom: none;
-    padding: 1rem 1.4rem;
-  }
+}
+ 
+// ── Transclusion ─────────────────────────────────────────
+ 
+.referred {
+  background: #17150f;
+  border-left: 3px solid #7a4b1a;
+  border-right: none;
+  border-top: none;
+  border-bottom: none;
+  padding: 1rem 1.4rem;
 }
