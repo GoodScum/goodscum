@@ -9,7 +9,7 @@ This is a garden grown from a boneyard.
 - [[Clippings/How Angel Magic Gave Us the Internet\|How Angel Magic Gave Us the Internet]]
 - [[arQ(hive)/Online Pubs/bee-hive-heart-forest-soul\|bee-hive-heart-forest-soul]] 
 - [[arQ(hive)/Online Pubs/thomas-crush-burial-moksha\|thomas-crush-burial-moksha]]
-- [[arQ(hive)/Boys/Phillip Weimer/Idaho\|Idaho]] 
+- [[arQ(hive)/Mars/P.W/Idaho\|Idaho]] 
 - [[The Ones Who Walk Away from Omelas - Ursula K. LeGuin\|The Ones Who Walk Away from Omelas - Ursula K. LeGuin]] - This is a free pdf~
 - [[Clippings/All You Need Is Kill (2025)\|All You Need Is Kill (2025)]] 
 - [[saturn in aries\|saturn in aries]]
