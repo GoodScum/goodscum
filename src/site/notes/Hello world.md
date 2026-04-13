@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/hello-world/","title":"Hello world","tags":["gardenEntry"],"dg-note-properties":{"title":"Hello world","tags":null}}
 ---
 
-This is a garden grown from a boneyard.
+This is a garden grown from a boneyard. What you find depends on how you enter.
 ### start here
 
 - [[arQ(hive)/Online Pubs/recolor/old words from earth mountain\|old words from earth mountain]] 
