@@ -7,7 +7,7 @@ This is a garden grown from a boneyard.
 
 - [[arQ(hive)/Online Pubs/recolor/old words from earth mountain\|old words from earth mountain]] 
 - [[Clippings/How Angel Magic Gave Us the Internet\|How Angel Magic Gave Us the Internet]]
-- [[arQ(hive)/Online Pubs/bee-hive-heart-forest-soul\|bee-hive-heart-forest-soul]] 
+- [[arQ(hive)/Nacre\|Nacre]]
 - [[arQ(hive)/Online Pubs/thomas-crush-burial-moksha\|thomas-crush-burial-moksha]]
 - [[arQ(hive)/Mars/P.W/Idaho\|Idaho]] 
 - [[The Ones Who Walk Away from Omelas - Ursula K. LeGuin\|The Ones Who Walk Away from Omelas - Ursula K. LeGuin]] - This is a free pdf~
