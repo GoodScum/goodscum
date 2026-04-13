@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ar-q-hive/nacre/","title":"Nacre - Wikipedia","tags":["Wiki"],"dg-note-properties":{"title":"Nacre - Wikipedia","source":"https://en.wikipedia.org/wiki/Nacre","published":"2003-12-09","created":"2026-04-06","summary":null,"tags":["Wiki"]}}
+{"dg-publish":true,"permalink":"/ar-q-hive/nacre/","title":"Nacre - Wikipedia","tags":["#Wiki"],"dg-note-properties":{"title":"Nacre - Wikipedia","source":"https://en.wikipedia.org/wiki/Nacre","published":"2003-12-09","created":"2026-04-06","summary":null,"tags":["#Wiki"]}}
 ---
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NautilusCutawayLogarithmicSpiral.jpg/330px-NautilusCutawayLogarithmicSpiral.jpg)
