@@ -6,10 +6,10 @@ This is a garden grown from a boneyard.
 ### start here
 
 - [[arQ(hive)/Online Pubs/recolor/old words from earth mountain\|old words from earth mountain]] 
-- [[Clippings/How Angel Magic Gave Us the Internet\|How Angel Magic Gave Us the Internet]]
+- [[arQ(hive)/How Angel Magic Gave Us the Internet\|How Angel Magic Gave Us the Internet]]
 - [[arQ(hive)/Nacre\|Nacre]]
 - [[arQ(hive)/Online Pubs/thomas-crush-burial-moksha\|thomas-crush-burial-moksha]]
 - [[arQ(hive)/Mars/P.W/Idaho\|Idaho]] 
-- [[The Ones Who Walk Away from Omelas - Ursula K. LeGuin\|The Ones Who Walk Away from Omelas - Ursula K. LeGuin]] - This is a free pdf~
-- [[Clippings/All You Need Is Kill (2025)\|All You Need Is Kill (2025)]] 
+- [[arQ(hive)/downloadables/The Ones Who Walk Away from Omelas - Ursula K. LeGuin\|The Ones Who Walk Away from Omelas - Ursula K. LeGuin]] - This is a free pdf~
+- [[arQ(hive)/downloadables/All You Need Is Kill (2025)\|All You Need Is Kill (2025)]] 
 - [[saturn in aries\|saturn in aries]]
