@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ar-q-hive/online-pubs/recolor/old-words-from-earth-mountain/","title":"old words from earth mountain","tags":["recolor","Earth","Colorado"],"dg-note-properties":{"title":"old words from earth mountain","source":"https://recolor.me/topic/789225/1/","tags":["recolor","Earth","Colorado"]}}
+{"dg-publish":true,"permalink":"/ar-q-hive/online-pubs/recolor/old-words-from-earth-mountain/","title":"old words from earth mountain","tags":["recolor","Earth","Colorado"],"dg-note-properties":{"title":"old words from earth mountain","source":"https://recolor.me/topic/789225/1/","tags":["recolor","Earth","Colorado"],"category":"creative"}}
 ---
 
 ### moldavite — 2016-11 `#12128933`
