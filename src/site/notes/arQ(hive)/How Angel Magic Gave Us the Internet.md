@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ar-q-hive/how-angel-magic-gave-us-the-internet/","title":"How Angel Magic Gave Us the Internet - The Steganographia of Trithemius","tags":["#Angel","#Magic","#Internet"],"dg-note-properties":{"title":"How Angel Magic Gave Us the Internet - The Steganographia of Trithemius","source":"https://www.youtube.com/watch?v=Vq96NDOB0xs","published":"2026-03-27","created":"2026-04-09","summary":null,"tags":["#Angel","#Magic","#Internet"]}}
+{"dg-publish":true,"permalink":"/ar-q-hive/how-angel-magic-gave-us-the-internet/","title":"How Angel Magic Gave Us the Internet - The Steganographia of Trithemius","tags":["Angel","Magic","Internet"],"dg-note-properties":{"title":"How Angel Magic Gave Us the Internet - The Steganographia of Trithemius","source":"https://www.youtube.com/watch?v=Vq96NDOB0xs","published":"2026-03-27","created":"2026-04-09","summary":null,"tags":["Angel","Magic","Internet"]}}
 ---
 
 <div class="youtube-embed"><iframe src="https://www.youtube.com/embed/Vq96NDOB0xs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

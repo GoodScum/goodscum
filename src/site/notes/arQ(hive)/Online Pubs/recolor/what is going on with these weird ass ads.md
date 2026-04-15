@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ar-q-hive/online-pubs/recolor/what-is-going-on-with-these-weird-ass-ads/","title":"what is going on with these weird ass ads","tags":["#threads","#recolor"],"dg-note-properties":{"title":"what is going on with these weird ass ads","source":"https://recolor.me/topic/1456573/1/what_is_going_on_with_these_weird_ass_ads","tags":["#threads","#recolor"],"category":"humor"}}
+{"dg-publish":true,"permalink":"/ar-q-hive/online-pubs/recolor/what-is-going-on-with-these-weird-ass-ads/","title":"what is going on with these weird ass ads","tags":["threads","recolor"],"dg-note-properties":{"title":"what is going on with these weird ass ads","source":"https://recolor.me/topic/1456573/1/what_is_going_on_with_these_weird_ass_ads","tags":["threads","recolor"],"category":"humor"}}
 ---
 
 

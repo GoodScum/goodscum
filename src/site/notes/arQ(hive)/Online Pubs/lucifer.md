@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ar-q-hive/online-pubs/lucifer/","title":"lucifer","tags":["#writing","#Original-Content","#threads","#lucifer"],"dg-note-properties":{"title":"lucifer","tags":["#writing","#Original-Content","#threads","#lucifer"]}}
+{"dg-publish":true,"permalink":"/ar-q-hive/online-pubs/lucifer/","title":"lucifer","tags":["writing","Original-Content","threads","lucifer"],"dg-note-properties":{"title":"lucifer","tags":["writing","Original-Content","threads","lucifer"]}}
 ---
 
 

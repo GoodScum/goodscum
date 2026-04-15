@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ar-q-hive/online-pubs/bright-seattle-moments/","title":"bright seattle moments","tags":["#writing","#Original-Content","#Seattle"],"dg-note-properties":{"title":"bright seattle moments","tags":["#writing","#Original-Content","#Seattle"]}}
+{"dg-publish":true,"permalink":"/ar-q-hive/online-pubs/bright-seattle-moments/","title":"bright seattle moments","tags":["writing","Original-Content","Seattle"],"dg-note-properties":{"title":"bright seattle moments","tags":["writing","Original-Content","Seattle"]}}
 ---
 
 
