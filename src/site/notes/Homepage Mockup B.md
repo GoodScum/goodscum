@@ -17,16 +17,8 @@
   This is a garden grown from a boneyard.<br>What you find depends on how you enter.
 </p>
 
-<button onclick="
-  fetch('/sitemap.xml')
-    .then(r => r.text())
-    .then(xml => {
-      const urls = [...xml.matchAll(/<loc>(.*?)<\/loc>/g)]
-        .map(m => new URL(m[1]).pathname)
-        .filter(p => p !== '/' && p !== '/404/');
-      window.location.pathname = urls[Math.floor(Math.random() * urls.length)];
-    });
-" style="
+<a href="/~random/" style="
+  display: inline-block;
   background: none;
   border: 1px solid currentColor;
   color: inherit;
@@ -36,6 +28,7 @@
   padding: 0.6em 2em;
   cursor: pointer;
   text-transform: lowercase;
-">enter</button>
+  text-decoration: none;
+">enter</a>
 
 </div>
