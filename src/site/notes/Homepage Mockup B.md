@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage-mockup-b/","title":"Homepage Mockup B","dg-note-properties":{"title":"Homepage Mockup B","tags":null}}
+{"dg-publish":true,"permalink":"/homepage-mockup-b/","title":"Homepage Mockup B","tags":["gardenEntry"],"dg-note-properties":{"title":"Homepage Mockup B","tags":null}}
 ---
 
 
