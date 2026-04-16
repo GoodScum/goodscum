@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ar-q-hive/psychological-profile/","title":"The Anomaly in Eclipse Light","tags":["identity","pattern","typology"],"dg-note-properties":{"title":"The Anomaly in Eclipse Light","date":"2026-04-15","session":"psychospiritual","tags":["identity","pattern","typology"]}}
+{"dg-publish":true,"permalink":"/ar-q-hive/psychological-profile/","title":"The Anomaly in Eclipse Light","tags":["#identity","#pattern","#typology"],"dg-note-properties":{"title":"The Anomaly in Eclipse Light","date":"2026-04-15","session":"psychospiritual","tags":["#identity","#pattern","#typology"]}}
 ---
 
 
