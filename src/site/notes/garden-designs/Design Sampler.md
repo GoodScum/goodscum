@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden-designs/design-sampler/","title":"Garden Design Sampler","tags":["mockup","reference"],"dg-note-properties":{"title":"Garden Design Sampler","tags":["mockup","reference"],"cssclass":"design-sampler"}}
+{"dg-publish":true,"permalink":"/garden-designs/design-sampler/","title":"Garden Design Sampler","tags":["#mockup","#reference"],"dg-note-properties":{"title":"Garden Design Sampler","tags":["#mockup","#reference"],"cssclass":"design-sampler"}}
 ---
 
 
