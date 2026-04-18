@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/clippings/new-avatar-aang-the-last-airbender-movie-leaked-online-ahead-of-planned-release/","dg-note-properties":{}}
 ---
 
-hey it's Q, hd leak here: https://hurawatch.mn/watch-movie/watch-avatar-aang-the-last-airbender-movies-free-hd-on-hurawatch-150829.13331049
+### hd leak: [Q approved](https://hurawatch.mn/watch-movie/watch-avatar-aang-the-last-airbender-movies-free-hd-on-hurawatch-150829.13331049)
 
-[[https://www.youtube.com/watch?v=QixCrQe7YV8\|https://www.youtube.com/watch?v=QixCrQe7YV8]]
+[click for yt vid but the transcript's right there, so](https://www.youtube.com/watch?v=QixCrQe7YV8)
 
 A leaked version of the new Avatar film surfaced online months before release, raising security concerns and sparking fan discussion about its future.
 
