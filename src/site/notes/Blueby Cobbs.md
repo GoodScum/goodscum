@@ -53,6 +53,5 @@ Rest 15–20 min because structure needs to set and the berry juices need to thi
 
 ## Notes
 
-- I forgot to add the sugar to the batter, panicked, sprinkled a bunch of sugar on top (less than half a cup) and it was still delicious. If you were to add all the sugar 
-to the berries instead I think it'd still work. 
+- I forgot to add the sugar to the batter, panicked, sprinkled a bunch of sugar on top (less than half a cup) and it was still delicious. If you were to add all the sugar to the berries instead I think it'd still work. 
 - Underbake by 3 minutes for a wetter center while the crust stays crackly, resting heat helps consolidate the berry/batter layers.
