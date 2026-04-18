@@ -8,6 +8,10 @@
 
 ---
 
+![bluebycobbs.png](/img/user/arQ(hive)/freebz/bluebycobbs.png)
+
+---
+
 ## Ingredients
 
 **Batter**
