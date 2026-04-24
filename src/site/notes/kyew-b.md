@@ -1,0 +1,65 @@
+---
+{"dg-publish":true,"permalink":"/kyew-b/","dg-note-properties":{}}
+---
+
+# Did you just play a weird game with a hot guy?
+## Congratulations, you just played a   [Kokology Game!](Kokology) This particular game is called [[arQ(hive)/The Cube\|The Cube]].
+- - -
+
+ By no means an exhaustive methodology on the ancient indigenous cultures that share in playing this (or an iteration of) kokology, below is just one interpretive framework from the famous ***[Tadahiko Nagao’s Kokology: The Game of Self-Discovery](obsidian://open?vault=Qasm&file=arQ(hive)%2FThe%20Cube)*** 
+ 
+ If you're not moved by this way of reading your results, look up alternative interpretations of the symbol you're curious about online. No wrong answers! 
+ 
+===[click for a free pdf of the kokology book](obsidian://open?vault=Qasm&file=arQ(hive)%2FThe%20Cube)===
+- - -
+### Interpretation:
+
+- **The Cube (Your Ego/Self-Perception):**  
+	This represents you—your core identity and self-view.  
+	*Size*  
+	Large: Confident, outgoing, natural leader with a big ego.  
+	Small: Shy, modest, introverted; you prefer staying under the radar.  
+	*Material*  
+	Solid/strong (e.g., metal, stone): Resilient and emotionally stable. Soft/fragile (e.g., glass, fabric): Sensitive, easily influenced, or empathetic. Transparent: Open and honest with others. Opaque: Private, guarded about your inner world.  
+	*Position*  
+	On the ground: Practical, down-to-earth, self-aware. Buried: Future-oriented planner who loves organization. Floating: Dreamy, idealistic or disconnected from reality.
+- **The Ladder (Your Ambitions/Friends):**  
+	This symbolizes your goals, career aspirations or close friendships (depending on context—often both).  
+	*Material*  
+	Sturdy (e.g., wood, metal): Ambitious and determined. Flimsy: Cautious or unrealistic about goals; flexible but unreliable.  
+	*Height*  
+	Taller than cube: High aspirations; you aim big (or value friends/family highly and look up to them). Equal: Balanced, realistic goals (or see friends as equals). Shorter: Modest ambitions (or prefer a small, intimate circle of friends).  
+	*Relation to Cube*  
+	Leaning/touching: Goals intertwined with self (or rely on friends for support). Detached: Independent; you tackle challenges solo. Below: You view yourself as an authority (or friends look up to you).
+- **The Horse (Your Ideal Partner/Lover):**  
+	This reflects your romantic desires and current relationship dynamics.  
+	*Distance*  
+	Close to cube: Strong, passionate connection with partner; intimacy is key. Far away: Distant emotionally or seeking independence in love.  
+	*Action*  
+	Standing still/tied up: Prefer stability and commitment. Roaming free/moving away: Value freedom; your ideal is adventurous or unattached.  
+	*Appearance*  
+	Strong/muscular: Attracted to confident, reliable partners. Delicate/elegant: Drawn to refined, appearance-focused types who enjoy pampering.
+- **The Flowers/Stones (Children/Family or Happiness):**  
+	The **flowers** represent your views on children, family bonds or sources of joy in life. The **stones** represent your views on aging, mortality or the elderly in your life.  
+	*Number*  
+	**Many flowers:** Desire a big family or lots of loved ones; optimistic about legacy. **Few/no flowers:** Prefer a small circle or no kids; value quality over quantity. 
+	**Large, sacred stones:** Respect for those older and more wise than you, reverence thereof. **Small stones, inconsequential:** You may not hold said mature, wisened energies in particularly high regard.
+	*Relation to Cube (apply likewise to stone)* 
+	Surrounding it: Family/children central to your identity; nurturing and close-knit. Near but separate: Appreciate family but maintain boundaries. Far away: Independent from family ties; focus elsewhere.  
+	*Appearance*  
+	**Vibrant/healthy/prominent:** Positive, hopeful about family life. 
+	**Wilted/fragile/scattered:** Concerns about nurturing or past family issues.
+- **The Storm (Stress/Fears):**  
+	This embodies how you handle problems, worries or life’s challenges.  
+	*Distance*  
+	Far away: Low stress; you live worry-free and resilient. Close/approaching: Proactive; ready to confront issues head-on.  
+	*Intensity*  
+	Mild/passing quickly: Optimistic outlook; troubles don’t linger. Violent/directly above: Overwhelmed currently; fears feel all-consuming.  
+	*Duration*  
+	Short: Bounce back fast from setbacks. Lingering: Tendency to dwell on problems.
+	
+#### Closing thoughts: 
+##### The Cube is a powerful mirror. It reflects you, giving your psyches a language to speak with. Listen carefully.
+Take note of any patterns between the symbols that emerge: Does your cube match the material of the ladder? How did your horse react to your storm? - and so on. Games like this cleverly utilize the mind's tendency and ability to project the subconscious materials within in such a way as to be understood more easily. The symbols The Cube presents are traditional and well-tested across the ages. Other kokology games will use different symbols to provoke different shadows... 
+# Remember: ===If it resonates: journal about it, think on it. That's shadow material begging to be known, understood and most of all:   *integrated*. 
+###### Return to your desert from time to time to see if anything's changed.===
