@@ -57,7 +57,8 @@ It's by no means the only interpretive lens, but we'll be using  ***[Tadahiko Na
 	Short: Bounce back fast from setbacks. Lingering: Tendency to dwell on problems.
 ---
 ## In closing: 
+
+Take note of any patterns between the symbols that emerge: Does your cube match the material of the ladder? How did your horse react to your storm? - and so on. Games like this cleverly utilize the mind's tendency and ability to project the subconscious materials within in such a way as to be understood more easily. Return to your desert from time to time to see if anything's changed. The symbols that *The Cube* presents are traditional. Other kokology games will use different symbols to provoke different shadows.
 ##### The Cube is a powerful mirror. It reflects you, giving your psyches a language to speak with. Listen carefully.
 
-Take note of any patterns between the symbols that emerge: Does your cube match the material of the ladder? How did your horse react to your storm? - and so on. Games like this cleverly utilize the mind's tendency and ability to project the subconscious materials within in such a way as to be understood more easily. Return to your desert from time to time to see if anything's changed. The symbols that *The Cube* presents are traditional. Other kokology games will use different symbols to provoke different shadows... 
-# ===If it resonates: journal about it, think on it. That's shadow material begging to be known, understood and above all: integrated. ===
+# Whatever speaks loudest: journal about, think on, engage with and ultimately... Integrate it.
