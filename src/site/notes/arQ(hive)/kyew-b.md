@@ -2,15 +2,15 @@
 {"dg-publish":true,"permalink":"/ar-q-hive/kyew-b/","dg-note-properties":{}}
 ---
 
-# Did you just play a weird game with a ~~weird~~ hot guy? 
-### Congratulations you just played a [Kokology Game!](Kokology)
-##### This particular kokology game is called: [[arQ(hive)/The Cube\|The Cube]]
----
-By no means the only interpretive lens, below is a framework by ***[Tadahiko Nagao's Kokology: The Game of Self-Discovery](obsidian://open?vault=Qasm&file=arQ(hive)%2FThe%20Cube)*** If you're not moved by this way of reading your results, look online for alternative interpretations of the symbols you're curious about. No wrong answers!
+# Did you just play a weird game with a ~~weird~~ hot guy?
+##### That was a [Kokology Game](Kokology) called [[arQ(hive)/The Cube\|The Cube]]!
 
-- [click for a free pdf of the book!](obsidian://open?vault=Qasm&file=arQ(hive)%2FKokology.pdf)
+It's by no means the only interpretive lens, but we'll be using  ***[Tadahiko Nagao's Kokology: The Game of Self-Discovery](obsidian://open?vault=Qasm&file=arQ(hive)%2FThe%20Cube)*** here. If you're not moved by this way of reading your results, look online for alternative interpretations of the symbols you're curious about. No wrong answers! 
+
+[Click for a free pdf of the book!](obsidian://open?vault=Qasm&file=arQ(hive)%2FKokology.pdf)
+
 ---
-# Interpretation Methods:
+# Interpretation:
 
 - **The Cube (Your Ego/Self-Perception):**  
 	This represents you—your core identity and self-view.  
@@ -56,7 +56,7 @@ By no means the only interpretive lens, below is a framework by ***[Tadahiko Nag
 	*Duration*  
 	Short: Bounce back fast from setbacks. Lingering: Tendency to dwell on problems.
 ---
-## Closing thoughts: 
+## In closing: 
 ##### The Cube is a powerful mirror. It reflects you, giving your psyches a language to speak with. Listen carefully.
 
 Take note of any patterns between the symbols that emerge: Does your cube match the material of the ladder? How did your horse react to your storm? - and so on. Games like this cleverly utilize the mind's tendency and ability to project the subconscious materials within in such a way as to be understood more easily. Return to your desert from time to time to see if anything's changed. The symbols that *The Cube* presents are traditional. Other kokology games will use different symbols to provoke different shadows... 
