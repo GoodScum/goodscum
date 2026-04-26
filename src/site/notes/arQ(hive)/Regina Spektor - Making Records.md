@@ -2,11 +2,12 @@
 {"dg-publish":true,"permalink":"/ar-q-hive/regina-spektor-making-records/","title":"Regina Spektor - Making Records (08-19-2003)","tags":["regina spektor","live"],"dg-note-properties":{"title":"Regina Spektor - Making Records (08-19-2003)","source":"https://www.youtube.com/watch?v=AG_qNGaF12k","author":"slicknick1986","published":"2008-04-09","created":"2026-04-26","type":"youtube","summary":"A YouTube video page featuring Regina Spektor’s 2003 live performance of “Making Records” at Sin-é in NYC, reuploaded without leftover applause.","tags":["regina spektor","live"]}}
 ---
 
+
+
 <CENTER>
 <iframe src="https://www.youtube.com/embed/AG_qNGaF12k" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
-
-> A recording of Regina's performance of "Making Records" at Sin-é in NYC in August 2003. 
+> A recording of Regina's performance of "Making Records" at Sin-é in NYC in August 2003.  
 > (Reuploaded to omit the leftover applause at the beginning.)
   
 I am braiding records into my hair  
@@ -48,8 +49,7 @@ So why don't I just sleep in the middle of this kitchen
 A halo of forks and a linoleum floor  
 I am drunk and there's no one here to stop me  
 From being so tired and being so drunk  
-Why don't I just pee in the middle of this kitchen  
-Into a little teacup and I won't miss a drop  
+[[arQ(hive)/Online Pubs/recolor/༳༳\|Why don't I just pee in the middle of this kitchen? Into a little teacup and I won't miss a drop]] 
 I am drunk and there's no one here to stop me  
 From being so eccentric and being so lonely  
   
