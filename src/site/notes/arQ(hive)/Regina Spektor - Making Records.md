@@ -49,7 +49,7 @@ So why don't I just sleep in the middle of this kitchen
 A halo of forks and a linoleum floor  
 I am drunk and there's no one here to stop me  
 From being so tired and being so drunk  
-[[arQ(hive)/Online Pubs/recolor/༳༳\|Why don't I just pee in the middle of this kitchen? Into a little teacup and I won't miss a drop]] 
+[[arQ(hive)/⠕⠥⠞⠑⠗⠺⠕⠗⠇⠙ v2\|Why don't I just pee in the middle of this kitchen? Into a little teacup and I won't miss a drop]] 
 I am drunk and there's no one here to stop me  
 From being so eccentric and being so lonely  
   
