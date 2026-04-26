@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ar-q-hive/kokology/","title":"Kokology","tags":["#Wiki","#Kokology"],"dg-note-properties":{"title":"Kokology","source":"https://en.wikipedia.org/wiki/Kokology","published":null,"created":"2026-04-23","summary":null,"tags":["#Wiki","#Kokology"]}}
+{"dg-publish":true,"permalink":"/ar-q-hive/kokology/","title":"Kokology","tags":["Wiki","Kokology"],"dg-note-properties":{"title":"Kokology","source":"https://en.wikipedia.org/wiki/Kokology","published":null,"created":"2026-04-23","summary":null,"tags":["Wiki","Kokology"]}}
 ---
 
 **Kokology** is the study of *kokoro* (Japanese: 心) ' [mind](https://en.wikipedia.org/wiki/Mind "Mind") or spirit', introduced in the Kokology book series by Tadahiko Nagao and Isamu Saito,[^1] a professor at [Rissho](https://en.wikipedia.org/wiki/Rissho_University "Rissho University") and [Waseda](https://en.wikipedia.org/wiki/Waseda_University "Waseda University") Universities in Japan and an author of a number of [bestselling books](https://en.wikipedia.org/wiki/Bestseller "Bestseller") regarding [psychology](https://en.wikipedia.org/wiki/Psychology "Psychology") and [relationships](https://en.wikipedia.org/wiki/Interpersonal_relationship "Interpersonal relationship").

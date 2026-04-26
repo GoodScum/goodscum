@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ar-q-hive/the-cube/","tags":["#Kokology","#The-Cube"],"dg-note-properties":{"tags":["#Kokology","#The-Cube"]}}
+{"dg-publish":true,"permalink":"/ar-q-hive/the-cube/","tags":["Kokology","The-Cube"],"dg-note-properties":{"tags":["Kokology","The-Cube"]}}
 ---
 
 <iframe src="https://open.spotify.com/embed/episode/4p0Zhy0EpW3sAIK3veZTFi/video?utm_source=generator" width="624" height="351" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
